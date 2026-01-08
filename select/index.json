@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "熱帯夜",
+  "base_artist": "RIP SLYME",
+  "createdAt": "2026-01-08T09:04:31.269426Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "熱帯夜",
+      "artist": "SHISHAMO",
+      "has_synced": true,
+      "path": "select/01_熱帯夜_SHISHAMO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "熱帯夜",
+      "artist": "SHISHAMO",
+      "has_synced": true,
+      "path": "select/02_熱帯夜_SHISHAMO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "熱帯夜 - NETTAIYA",
+      "artist": "RIP SLYME",
+      "has_synced": true,
+      "path": "select/03_熱帯夜_-_NETTAIYA_RIP_SLYME.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "熱帯夜",
+      "artist": "RIP SLYME",
+      "has_synced": true,
+      "path": "select/04_熱帯夜_RIP_SLYME.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "熱帯夜",
+      "artist": "RIP SLYME",
+      "has_synced": true,
+      "path": "select/05_熱帯夜_RIP_SLYME.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "熱帯夜",
+      "artist": "SPEED",
+      "has_synced": true,
+      "path": "select/06_熱帯夜_SPEED.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "熱帯夜",
+      "artist": "RIPSLYME",
+      "has_synced": true,
+      "path": "select/07_熱帯夜_RIPSLYME.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "熱帯夜",
+      "artist": "ゴスペラーズ",
+      "has_synced": true,
+      "path": "select/08_熱帯夜_ゴスペラーズ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "熱帯夜 (Remastered)",
+      "artist": "THE YELLOW MONKEY",
+      "has_synced": false,
+      "path": "select/09_熱帯夜_(Remastered)_THE_YELLOW_MONKEY.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "熱帯夜 - NETTAIYA",
+      "artist": "RIP SLYME",
+      "has_synced": true,
+      "path": "select/10_熱帯夜_-_NETTAIYA_RIP_SLYME.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "熱帯夜",
+      "artist": "THE YELLOW MONKEY",
+      "has_synced": true,
+      "path": "select/11_熱帯夜_THE_YELLOW_MONKEY.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "熱帯夜",
+      "artist": "SPEED",
+      "has_synced": false,
+      "path": "select/12_熱帯夜_SPEED.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "熱帯夜",
+      "artist": "RIP SLYME",
+      "has_synced": false,
+      "path": "select/pl_01_熱帯夜_RIP_SLYME.txt"
+    }
+  ]
+}
